@@ -23,6 +23,7 @@
         "drupal/admin_toolbar": "^3.4",
         "drupal/core-composer-scaffold": "^9.5",
         "drupal/core-recommended": "^9.5",
+        "drupal/pathauto": "^1.13",
         "drush/drush": "^11.6"
     },
     "conflict": {
